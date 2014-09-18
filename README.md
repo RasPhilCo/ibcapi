@@ -1,10 +1,10 @@
-## YT IceBucketChallenge API
+## IceBucketChallenge API
 
-This API contains data on YT IceBucketChallenge videos. 
+This Rails API stores data on IceBucketChallenge videos from YT.
 
 ### Endpoints, V1
 
-All calls to the domain are namespaced and must include 'api' and the api version, ex: "http://domain.com/api/v1".
+All calls are namespaced with 'api' and the api version, ex: "http://example.com/api/v1".
 
 #####Videos
 
